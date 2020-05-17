@@ -3,15 +3,15 @@ body{
 }
 .row1{
     background-color: teal;
-padding: 10%;
+padding: 10% 0;
 }
 .row2{
     background-color: coral;
-    padding: 10%;
+    padding: 10% 0;
 }
 .row3{
     background-color: crimson;
-    padding: 10%;
+    padding: 10% 0;
 }
 h1{
     font-family: "monserrat",sans-serif;
